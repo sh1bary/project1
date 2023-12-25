@@ -1,0 +1,4 @@
+﻿  OpenMP_task.cpp
+C:\Users\fedor\source\repos\OpenMP_task\OpenMP_task\OpenMP_task.cpp(35,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\fedor\source\repos\OpenMP_task\OpenMP_task\OpenMP_task.cpp(10,5): warning C4101: i: неиспользованная локальная переменная
+  OpenMP_task.vcxproj -> C:\Users\fedor\source\repos\OpenMP_task\x64\Debug\OpenMP_task.exe
